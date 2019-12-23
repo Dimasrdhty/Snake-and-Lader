@@ -3,7 +3,7 @@
 
 The simplest OpenGL snake and ladder game developed as a part of Computer Graphics course in Semester 7.
 
-<img src="assets/board.png" style="width:400px;"/>
+<img src="board.png" style="width:400px;"/>
 
 The game features Snakes and Ladders as red and green lines respectively. This is designed as a two player game, with players starting outside the board and starts by rolling the dice. Animations of players moving across the tiles are included, as well as simple sound effects for movement, climbing ladder, snake swallowing, and victory song are added. This project is very useful for people who are starting to learn OpenGL.
 
