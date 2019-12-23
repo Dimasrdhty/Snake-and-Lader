@@ -30,6 +30,6 @@ player position, the dice value, turn flag and the rolling flag.
 - The rolling flag is used so that no input is registered when a player is moving.
 
 #### References
-- [OpenGL Snake Game](https://www.youtube.com/watch?v=6Miai_t_ksw&list=PLWzp0Bbyy_3gXc0YBxiIR9Tb5KfmLSL_C) Cool tutorial, do check it out.
+- [OpenGL Snake Game](https://www.youtube.com/watch?v=6Miai_t_ksw&list=PLWzp0Bbyy_3gXc0YBxiIR9Tb5KfmLSL_C)
 - [Drawing Text](https://www.youtube.com/watch?v=elE__Nouv54)
 - [Drawing Circles](https://stackoverflow.com/questions/22444450/drawing-circle-with-opengl)
