@@ -9,7 +9,6 @@ The game features Snakes and Ladders as red and green lines respectively. This i
 
 #### Installation for Ubuntu
 - Perform the installation of OpenGL, freeGlut, etc as per the instructions [here](http://www.cse.iitm.ac.in/~vplab/courses/CG/opengl_start.html).
-- Install canberra-gtk-play. Or uncomment the system calls to play sound.
 - Run the compile.sh script.
 
 #### Running the game
