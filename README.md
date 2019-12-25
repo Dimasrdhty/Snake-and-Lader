@@ -1,7 +1,7 @@
 
 ## Snake and Ladder OpenGL
 
-The simplest OpenGL snake and ladder game developed as a part of Computer Graphics course in Semester 7.
+The OpenGL Snakes and Ladders game developed as a part of Advanced Programming course in Semester 3.
 
 <img src="board.png" style="width:400px;"/>
 
